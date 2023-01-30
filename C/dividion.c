@@ -7,4 +7,5 @@ int main()
     
     div=a/b;
     printf("div=%d",div);
+    printf("your name is the ganesh");
 }
